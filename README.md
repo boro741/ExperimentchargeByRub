@@ -1,4 +1,4 @@
-# Charging By Rubbing
+#Static Electricity Charging By Rubbing demostration
 
  
 ## Charging by Rubbing experiment concepts
